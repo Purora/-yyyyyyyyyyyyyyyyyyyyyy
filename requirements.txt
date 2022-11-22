@@ -1,0 +1,8 @@
+discord.py == 1.7.3
+asyncio
+mss
+browserhistory
+pyautogui
+pynput
+pycaw
+pywin32
